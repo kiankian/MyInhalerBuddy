@@ -1,7 +1,3 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Project Overview
 
 MyInhalerBuddy is a computer vision application that helps users properly use inhalers by providing real-time feedback through webcam monitoring. The application uses OpenCV, MediaPipe, and NumPy to detect red inhalers, track facial landmarks, and analyze proper inhaler technique across multiple specialized modes.
